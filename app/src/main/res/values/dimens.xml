@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_padding">16dp</dimen>
+    <dimen name="size_titulo_sitios">25sp</dimen>
+    <dimen name="espacio">20dp</dimen>
+    <dimen name="size_opcion">125dp</dimen>
+</resources>
